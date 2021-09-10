@@ -16,7 +16,7 @@
 ### 📂 Projects
 
 - 📃 [ilchooL : 출근길 직장인들의 똑똑한 습관, 일출](https://github.com/Ho-Parks/ilchooL_Teamproject)
-
+[☀️ilchooL 프로젝트 바로가기 --> http://itproject.ezenac.co.kr/ilchooL/ ☀️](http://itproject.ezenac.co.kr/ilchooL/)
 
 ### 📚 Study
 
@@ -50,7 +50,7 @@
  
 <h2>📫 Contacts 📫</h2>
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](ebusinho@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:ebusinho@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Ho-Parks)
 [![Notion](https://img.shields.io/badge/Notion-003366?style=flat-square&logo=Notion&logoColor=white)](https://1n-h0.notion.site/STUDY-c049e2165746447da8ae393406df53a9)
  </div>
