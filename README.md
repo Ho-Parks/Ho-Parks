@@ -18,7 +18,7 @@
 ### 📂 Projects
 
 - 📃 [ilchooL : 출근길 직장인들의 똑똑한 습관, 일출](https://github.com/Ho-Parks/ilchooL_Teamproject)
- * [☀️ ilchooL 프로젝트 바로가기 --> http://itproject.ezenac.co.kr/ilchooL/ ☀️](http://itproject.ezenac.co.kr/ilchooL/)
+> [☀️ ilchooL 프로젝트 바로가기 --> http://itproject.ezenac.co.kr/ilchooL/ ☀️](http://itproject.ezenac.co.kr/ilchooL/)
 
 ### 📚 Study
 
