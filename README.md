@@ -13,7 +13,7 @@
 <br>
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ho-parks&repo=Ho-parks)](https://github.com/Ho-parks/Ho-parks) -->
 
-<h3> 🔑 PORTFOLIO <a href="https://ho-parks.github.io/PORTFOLIO/"/> </h3>
+<h3> <a href="https://ho-parks.github.io/PORTFOLIO/"> 🔑 PORTFOLIO </a> </h3>
 
 ### 📂 Projects
 
