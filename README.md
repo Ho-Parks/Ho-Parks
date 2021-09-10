@@ -13,13 +13,8 @@
 <br>
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ho-parks&repo=Ho-parks)](https://github.com/Ho-parks/Ho-parks) -->
 
-<!-- <h3> <a href="https://ho-parks.github.io/PORTFOLIO/" style="text-decoration:none; color: black !important;"  > 🔑 PORTFOLIO </a> </h3> -->
-<details>
- <summary> <h3> 🔑 PORTFOLIO </h3> </summary>
-<div markdown="1">
-<h3><a href="https://ho-parks.github.io/PORTFOLIO/" style="text-decoration:none; color: black !important;"  >PORTFOLIO</h3>
-</div>
-</details>
+<h3> <a href="https://ho-parks.github.io/PORTFOLIO/"> 🔑 PORTFOLIO </a> </h3> 
+
 ### 📂 Projects
 
 - 📃 [ilchooL : 출근길 직장인들의 똑똑한 습관, 일출](https://github.com/Ho-Parks/ilchooL_Teamproject)<br>
