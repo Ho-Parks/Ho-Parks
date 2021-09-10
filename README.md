@@ -20,7 +20,7 @@
 
 ### 📚 Study
 
-- 📃 [공부 기록](https://github.com/Ho-Parks/java)
+- 📃 [공부 기록](https://github.com/Ho-Parks/history-of-study)
 
 <br><br>
 
